@@ -7,10 +7,16 @@
 
 /* Sfondo giallo*/
 section span {
-    background-color: #FFFF00
+    background-color: #FFFF00;
 }
 
 /* Sfondo celeste*/
+
+/* Background-image*/
+
+.img-monitor {
+    background-image:"../img/monitor.jpg";
+}
 
 /* Classi ROBOTO*/
 .roboto-thin {
