@@ -1,3 +1,15 @@
+/* Reset*/
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/* Sfondo giallo*/
+
+/* Sfondo celeste*/
+
+/* Classi ROBOTO*/
 .roboto-thin {
     font-family: "Roboto", sans-serif;
     font-weight: 100;
